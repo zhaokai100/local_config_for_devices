@@ -1,0 +1,9 @@
+[custom]
+ruleset=通用,[]FINAL
+custom_proxy_group=通用`select`[]低倍`[]即时`.*V
+custom_proxy_group=非倭IP`select`.*(V|香港专线)
+custom_proxy_group=低倍`select`.*0.1
+custom_proxy_group=视频`select`[]通用`[]低倍`.*VV
+custom_proxy_group=即时`select`.*V
+enable_rule_generator=true
+overwrite_original_rules=true

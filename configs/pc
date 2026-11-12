@@ -1,0 +1,8 @@
+[custom]
+ruleset=PASS,[]FINAL
+custom_proxy_group=稳定`select`.*V
+custom_proxy_group=低倍`select`.*0.1
+custom_proxy_group=替代日本`select`.*V
+custom_proxy_group=另外`select`[]DIRECT`[]稳定`[]低倍`.*vv
+enable_rule_generator=true
+overwrite_original_rules=true
