@@ -1,2 +1,3 @@
-# local_config_for_devices
-local_config_for_devices
+屏蔽UDP
+先程序
+后域名关键词
