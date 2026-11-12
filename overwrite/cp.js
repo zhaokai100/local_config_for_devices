@@ -16,13 +16,11 @@ const main = (config) => {
     "PROCESS-NAME,tv.pluto.android,视频",
     "PROCESS-NAME,com.rezvorck.tiktokplugin,视频",
     "PROCESS-NAME,app.morphe.android.apps.youtube.music,视频",
-    "PROCESS-NAME,com.google.android.youtube,视频",
     "PROCESS-NAME,app.morphe.android.youtube,视频",
     "DOMAIN-KEYWORD,pornhub,非倭IP",
     "DOMAIN-KEYWORD,hanime,非倭IP",
     "DOMAIN-KEYWORD,18comic,非倭IP",
     "PROCESS-NAME,app.revanced.android.gms,通用",
-    "PROCESS-NAME,org.schabi.newpipe,通用",
     "MATCH,通用"
   ];
 
